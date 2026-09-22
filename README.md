@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋 What's Up?</h1>
+<h1 align="center">Hello world</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=FF1B4C&center=true&vCenter=true&width=550&lines=%3E+Studying+C%2B%2B...;%3E+Heading+towards+Cyber+Security" alt="Typing SVG" />
@@ -80,11 +80,11 @@ My hacker-themed portfolio.
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/pedro12345lisboa-sudo/pedro12345lisboa-sudo/trophy-output/trophy.svg?theme=darkhub&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true" alt="trophy graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=pedro12345lisboa-sudo&theme=darkhub&no-frame=true&margin-w=8&margin-h=8&column=4" alt="trophy graph" />
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/pedro12345lisboa-sudo/pedro12345lisboa-sudo/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  <img src="https://raw.githubusercontent.com/pedro12345lisboa-sudo/pedro12345lisboa-sudo/output/github-contribution-grid-snake.svg" width="100%"/>
 </div>
 
 <br>
