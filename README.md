@@ -84,6 +84,10 @@ My hacker-themed portfolio.
 </div>
 
 <div align="center">
+  <img src="assets/flowers-banner.svg" width="100%"/>
+</div>
+
+<div align="center">
   <img src="https://raw.githubusercontent.com/pedro12345lisboa-sudo/pedro12345lisboa-sudo/output/github-contribution-grid-snake.svg" width="100%"/>
 </div>
 
