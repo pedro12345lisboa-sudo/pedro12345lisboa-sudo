@@ -17,7 +17,9 @@ jobs:
       - uses: Platane/snk@v3
         with:
           github_user_name: pedro12345lisboa-sudo
-          outputs: dist/github-contribution-grid-snake.svg
+          outputs: |
+            dist/github-contribution-grid-snake.svg?color_snake=%23ffd6f0,%23ff9de2,%23ff5cc8,%23c92ea3,%237a1f6d&color_dots=%23180611,%233d0f2e,%236b1a54,%23a8267f,%23e04fb0,%23ff9de2&color_empty=%230d0509
+            dist/github-contribution-grid-snake-light.svg?color_snake=%23ffb6e6,%23ff5cc8,%23c92ea3,%237a1f6d&color_dots=%23ffe6f5,%23ffb8e6,%23ff85d1,%23e04fb0,%23c92ea3&color_empty=%23fff0fa
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:
