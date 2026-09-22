@@ -19,7 +19,7 @@ jobs:
         with:
           github_user_name: pedro12345lisboa-sudo
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=%23ff1b7c,%23ff5c9d,%23ff8fb8&color_dots=%232a0a14,%234d1526,%237a1f3d,%23a8264f,%23d92e63&color_empty=%23100a0c
+            dist/github-contribution-grid-snake.svg?color_snake=%23ffb6e6,%23ff5cc8,%23c92ea3,%237a1f6d&color_dots=%232a0a1f,%234d1240,%23801a66,%23c92ea3,%23ff5cc8&color_empty=%23120810
 
       - name: Push output to output branch
         uses: crazy-max/ghaction-github-pages@v4
