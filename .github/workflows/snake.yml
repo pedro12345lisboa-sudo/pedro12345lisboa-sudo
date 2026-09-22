@@ -14,15 +14,12 @@ jobs:
       contents: write
     runs-on: ubuntu-latest
     steps:
-      - name: Generate pink snake game from GitHub contribution grid
-        uses: Platane/snk@v3
+      - uses: Platane/snk@v3
         with:
           github_user_name: pedro12345lisboa-sudo
-          outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=%23ffb6e6,%23ff5cc8,%23c92ea3,%237a1f6d&color_dots=%232a0a1f,%234d1240,%23801a66,%23c92ea3,%23ff5cc8&color_empty=%23120810
+          outputs: dist/github-contribution-grid-snake.svg
 
-      - name: Push output to output branch
-        uses: crazy-max/ghaction-github-pages@v4
+      - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
