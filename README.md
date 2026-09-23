@@ -4,6 +4,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=FF1B4C&center=true&vCenter=true&width=550&lines=%3E+Studying+C%2B%2B...;%3E+Heading+towards+Cyber+Security" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pedro12345lisboa-sudo&label=Profile%20Views&color=ff1b7c&style=flat" alt="Profile views" />
+</p>
+
 <br>
 
 ## About me
@@ -18,13 +22,12 @@ I work with **JavaScript**, **TypeScript**, **Python** and **C++**.
 ## Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="c++ logo" />
+  <img src="assets/tech-js.jpg" width="45%"/>
+  <img src="assets/tech-ts.jpg" width="45%"/>
+</div>
+<div align="center">
+  <img src="assets/tech-python.jpg" width="45%"/>
+  <img src="assets/tech-cpp.jpg" width="45%"/>
 </div>
 
 <br>
