@@ -1,4 +1,4 @@
-<h1 align="center">Hello,world</h1>
+<h1 align="center">Hello world</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=FF1B4C&center=true&vCenter=true&width=550&lines=%3E+Studying+C%2B%2B...;%3E+Heading+towards+Cyber+Security" alt="Typing SVG" />
@@ -22,12 +22,10 @@ I work with **JavaScript**, **TypeScript**, **Python** and **C++**.
 ## Tech Stack
 
 <div align="center">
-  <img src="assets/tech-js.jpg" width="45%"/>
-  <img src="assets/tech-ts.jpg" width="45%"/>
-</div>
-<div align="center">
-  <img src="assets/tech-python.jpg" width="45%"/>
-  <img src="assets/tech-cpp.jpg" width="45%"/>
+  <img src="assets/tech-js-square.jpg" width="90" height="90" style="border-radius:8px" />
+  <img src="assets/tech-ts-square.jpg" width="90" height="90" style="border-radius:8px" />
+  <img src="assets/tech-python-square.jpg" width="90" height="90" style="border-radius:8px" />
+  <img src="assets/tech-cpp-square.jpg" width="90" height="90" style="border-radius:8px" />
 </div>
 
 <br>
