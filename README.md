@@ -1,7 +1,11 @@
-<h1 align="center">Hello,world</h1>
+<h1 align="center">Hello, World.</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=FF1B4C&center=true&vCenter=true&width=550&lines=%3E+Studying+C%2B%2B...;%3E+Heading+towards+Cyber+Security" alt="Typing SVG" />
+  <img src="assets/tech-banner.png" width="100%" alt="Technology Banner">
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=FF1B4C&center=true&vCenter=true&width=600&lines=%3E+Studying+C%2B%2B...;%3E+Building+with+JavaScript+%26+TypeScript;%3E+Exploring+Cyber+Security" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -10,43 +14,36 @@
 
 <br>
 
-## About me
+## About Me
 
-I'm a programmer and I'm currently studying **C++**.
-I started programming to become smarter and solve real problems — my current focus is moving into **Cyber Security**.
+I'm a programmer focused on learning, building projects and understanding how technology works under the hood.
 
-I work with **JavaScript**, **TypeScript**, **Python** and **C++**.
+Currently studying **C++** and exploring **Cyber Security**, while developing projects with:
+
+- **JavaScript**
+- **TypeScript**
+- **Python**
+- **C++**
+
+My goal is to keep improving my programming fundamentals and eventually specialize in areas related to **Cyber Security, systems and software development**.
 
 <br>
 
-<h3 align="left">Connect with me:</h3>
+## Connect with Me
+
 <p align="left">
-<a href="https://github.com/pedro12345lisboa-sudo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="pedro12345lisboa-sudo" height="30" width="40" /></a>
-<a href="https://instagram.com/pedro.lisboa57" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pedro.lisboa57" height="30" width="40" /></a>
+  <a href="https://github.com/pedro12345lisboa-sudo" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub"/>
+  </a>
+  <a href="https://instagram.com/pedro.lisboa57" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" width="40" height="40" alt="Instagram"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+## Languages and Tools
+
 <p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/nextjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/nestjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nestjs" alt="nestjs" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/dotnet" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=dotnet" alt="dotnet" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/firebase" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/electron" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=electron" alt="electron" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/framer" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/framer" alt="framer" width="40" height="40"/> </a>
+  <img src="https://skillicons.dev/icons?i=js,ts,py,cpp,html,css,nodejs,react,nextjs,nestjs,dotnet,docker,git,linux,mysql,firebase,electron,figma,tailwind,framer" />
 </p>
 
 <br>
@@ -57,23 +54,28 @@ I work with **JavaScript**, **TypeScript**, **Python** and **C++**.
 <tr>
 <td width="50%">
 
-### [app.py-code-capacete](https://github.com/pedro12345lisboa-sudo/spy-code-capacete)
+### [Smart Helmet AI](https://github.com/pedro12345lisboa-sudo/spy-code-capacete)
 `Python`
-An AI project — smart helmet.
+
+AI project focused on developing a smart helmet concept.
 
 </td>
 <td width="50%">
 
-### [cyber-portifolho](https://github.com/pedro12345lisboa-sudo/cyber-portifolho)
+### [Cyber Portfolio](https://github.com/pedro12345lisboa-sudo/cyber-portifolho)
 `JavaScript`
-My hacker-themed portfolio.
+
+A cyber-security inspired developer portfolio.
 
 </td>
 </tr>
+
 <tr>
 <td width="50%">
 
-### [fisica](https://github.com/pedro12345lisboa-sudo/fisica)
+### [Física](https://github.com/pedro12345lisboa-sudo/fisica)
+
+Physics-related programming project.
 
 </td>
 <td width="50%">
@@ -106,11 +108,11 @@ My hacker-themed portfolio.
 </div>
 
 <div align="center">
-  <img src="assets/flowers-banner.svg" width="100%"/>
+  <img src="assets/flowers-banner.svg" width="100%" alt="Banner"/>
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/pedro12345lisboa-sudo/pedro12345lisboa-sudo/output/github-contribution-grid-snake.svg" width="100%"/>
+  <img src="https://raw.githubusercontent.com/pedro12345lisboa-sudo/pedro12345lisboa-sudo/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution Snake"/>
 </div>
 
 <br>
