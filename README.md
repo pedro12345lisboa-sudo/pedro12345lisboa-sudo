@@ -19,14 +19,19 @@ I work with **JavaScript**, **TypeScript**, **Python** and **C++**.
 
 <br>
 
-## Tech Stack
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/pedro12345lisboa-sudo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="pedro12345lisboa-sudo" height="30" width="40" /></a>
+<a href="https://instagram.com/pedro.lisboa57" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pedro.lisboa57" height="30" width="40" /></a>
+</p>
 
-<div align="center">
-  <img src="assets/tech-js-square.jpg?v=2" width="90" height="90" style="border-radius:8px" />
-  <img src="assets/tech-ts-square.jpg?v=2" width="90" height="90" style="border-radius:8px" />
-  <img src="assets/tech-python-square.jpg?v=2" width="90" height="90" style="border-radius:8px" />
-  <img src="assets/tech-cpp-square.jpg?v=2" width="90" height="90" style="border-radius:8px" />
-</div>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a>
+</p>
 
 <br>
 
@@ -90,19 +95,6 @@ My hacker-themed portfolio.
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/pedro12345lisboa-sudo/pedro12345lisboa-sudo/output/github-contribution-grid-snake.svg" width="100%"/>
-</div>
-
-<br>
-
-## Socials
-
-<div align="center">
-  <a href="https://github.com/pedro12345lisboa-sudo">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=1a1a1a" />
-  </a>
-  <a href="https://instagram.com/pedro.lisboa57">
-    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=E4405F&labelColor=1a1a1a" />
-  </a>
 </div>
 
 <br>
