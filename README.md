@@ -18,13 +18,17 @@
 
 I'm a programmer focused on learning, building projects and understanding how technology works.
 
-I started programming to improve my problem-solving skills and create real-world solutions. I'm currently studying **C++** and heading towards **Cyber Security**.
+I started programming to improve my problem-solving skills and create real-world solutions. Over time, I started working with **JavaScript**, **TypeScript**, **Python** and **C++**, while also exploring **HTML**, **CSS** and **SQL**.
 
-I work with **JavaScript**, **TypeScript**, **Python** and **C++**.
+My first backend experience was built with **Node.js** and **Supabase**, which helped me understand backend development, databases and how applications communicate with their services.
 
-I'm also interested in **backend development, databases, Linux, networking, systems programming and operating systems**.
+I've also worked with technologies such as **React**, **Next.js**, **NestJS**, **.NET**, **Docker**, **Firebase** and **Electron**, while using tools and technologies such as **Git**, **Linux**, **Figma**, **Tailwind CSS** and **Framer** in different projects.
 
-I enjoy learning through practical projects and experimenting with different technologies.
+One of my projects is **Cyber Portifólio**, where I used JavaScript and Figma to build a Cyber Security inspired developer portfolio. I've also worked on projects involving Python, AI concepts and physics.
+
+I'm currently studying **C++** and heading towards **Cyber Security**, with a growing interest in **backend development, databases, Linux, networking, systems programming, operating systems and low-level technologies**.
+
+I enjoy learning through practical projects, experimenting with different technologies and constantly improving my programming skills.
 
 <br>
 
@@ -42,7 +46,7 @@ I enjoy learning through practical projects and experimenting with different tec
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,py,cpp,html,css,nodejs,react,nextjs,nestjs,dotnet,docker,git,github,linux,mysql,firebase,electron,figma,tailwind,framer" alt="Languages and Tools">
+  <img src="https://skillicons.dev/icons?i=js,ts,py,cpp,html,css,nodejs,react,nextjs,nestjs,dotnet,docker,git,github,linux,mysql,firebase,electron,figma,tailwind,framer,supabase" alt="Languages and Tools">
 </p>
 
 <br>
