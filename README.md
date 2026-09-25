@@ -5,179 +5,71 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=FF1B4C&center=true&vCenter=true&width=650&lines=%3E+Studying+C%2B%2B...;%3E+Building+Software;%3E+Exploring+Cyber+Security;%3E+Learning+Systems+Programming" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=FF1B4C&center=true&vCenter=true&width=600&lines=%3E+Studying+C%2B%2B...;%3E+Cyber+Security;%3E+Building+Projects" alt="Typing SVG">
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=pedro12345lisboa-sudo&label=Profile%20Views&color=ff1b4c&style=flat" alt="Profile Views">
 </p>
 
----
+<br>
 
 ## About Me
 
-I'm a programmer focused on building projects, understanding how technology works and continuously improving my programming skills.
+I'm a programmer focused on learning, building projects and understanding how technology works.
 
-I started programming with the goal of becoming a better problem solver and creating real-world solutions. My current interests include software development, backend development, systems programming and Cyber Security.
+Currently studying **C++** and exploring **Cyber Security**.
 
-I'm currently studying C++ while continuing to develop projects using JavaScript, TypeScript and Python.
+I work with **JavaScript, TypeScript, Python and C++**, with a strong interest in backend development, Linux, systems and databases.
 
-I prefer learning through practical projects, experimentation and understanding how things work internally rather than only learning theory.
+<br>
 
----
+## Connect with Me
 
-## Programming Languages
+<p align="left">
+  <a href="https://github.com/pedro12345lisboa-sudo">
+    <img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub">
+  </a>
+  <a href="https://instagram.com/pedro.lisboa57">
+    <img src="https://skillicons.dev/icons?i=instagram" width="40" height="40" alt="Instagram">
+  </a>
+</p>
 
-I currently work with four main programming languages:
+<br>
 
-- JavaScript
-- TypeScript
-- Python
-- C++
+## Languages and Tools
 
-My current focus is improving my C++ knowledge, programming fundamentals, algorithms, memory management, performance and lower-level concepts.
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,py,cpp,html,css,nodejs,react,nextjs,nestjs,dotnet,docker,git,github,linux,mysql,firebase,electron,figma,tailwind,framer" alt="Languages and Tools">
+</p>
 
----
-
-## Web Development
-
-I work with modern web technologies and frameworks, including:
-
-- HTML
-- CSS
-- JavaScript
-- TypeScript
-- Node.js
-- React
-- Next.js
-- NestJS
-- .NET
-- Tailwind CSS
-- Electron
-
-I am particularly interested in backend development, APIs, authentication, databases and application architecture.
-
----
-
-## Databases
-
-Technologies and database systems I have explored include:
-
-- MySQL
-- Firebase
-- Supabase
-
-I am interested in database design, APIs, authentication, data management and backend architecture.
-
----
-
-## Tools and Infrastructure
-
-I also work with and explore:
-
-- Git
-- GitHub
-- Linux
-- Docker
-- Figma
-- Framer
-
-I use Linux to learn more about operating systems, command-line environments, system administration and software development.
-
----
-
-## Cyber Security
-
-Cyber Security is one of the areas I am currently moving toward.
-
-My interest is in understanding how systems, networks, applications and operating systems work, including how they can be designed and secured properly.
-
-Areas I am currently exploring include:
-
-- Linux
-- Networking
-- System security
-- Web security
-- Application security
-- Operating systems
-- Low-level programming
-- Virtualization
-- Authentication
-- Databases
-- Security fundamentals
-
-My goal is to build a strong foundation in programming and computer systems before specializing further in Cyber Security.
-
----
-
-## Systems and Operating Systems
-
-I have a particular interest in understanding computers at a lower level.
-
-I have been exploring concepts related to:
-
-- Operating system architecture
-- Kernels
-- CPU architecture
-- Memory management
-- Processes and threads
-- System calls
-- Networking
-- Virtual machines
-- Linux
-- x86_64
-- RISC-V
-
-I am also working on personal experiments around operating-system concepts and systems programming.
-
----
+<br>
 
 ## Projects
 
-### Smart Helmet AI
+| Project | Language | Description |
+|---|---|---|
+| [Smart Helmet AI](https://github.com/pedro12345lisboa-sudo/spy-code-capacete) | Python | AI smart helmet project |
+| [Cyber Portfolio](https://github.com/pedro12345lisboa-sudo/cyber-portifolho) | JavaScript | Cyber Security inspired portfolio |
+| [Física](https://github.com/pedro12345lisboa-sudo/fisica) | — | Physics project |
 
-**Language:** Python
+<br>
 
-An experimental AI project focused on the concept of a smart helmet.
+## GitHub
 
-Repository:
+<div align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=pedro12345lisboa-sudo&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ff1b4c&icon_color=ff1b4c&text_color=ffffff">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro12345lisboa-sudo&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ff1b4c&text_color=ffffff">
+</div>
 
-https://github.com/pedro12345lisboa-sudo/spy-code-capacete
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=pedro12345lisboa-sudo&locale=en&theme=dark&hide_border=true&background=0d0d0d&ring=ff1b4c&fire=ff1b4c&currStreakLabel=ff1b4c" height="165em" alt="GitHub Streak">
+</div>
 
-### Cyber Portfolio
+<br>
 
-**Language:** JavaScript
+<div align="center">
 
-A developer portfolio with a Cyber Security inspired design.
+Focus. Code. Growth.
 
-Repository:
-
-https://github.com/pedro12345lisboa-sudo/cyber-portifolho
-
-### Physics
-
-A project focused on programming and physics-related experiments.
-
-Repository:
-
-https://github.com/pedro12345lisboa-sudo/fisica
-
-### Relativity Core
-
-An experimental project exploring physics simulations, relativity concepts, photon tracing and computational models using C++.
-
-### PedroOS
-
-A personal operating-system project focused on learning about kernels, system architecture, boot processes, memory, interrupts, system calls and computer architecture.
-
----
-
-## Current Focus
-
-```text
-C++                 ████████████████████
-Cyber Security      ████████████████
-Systems Programming ██████████████
-Backend Development ████████████████
-Linux               ███████████████
-Networking           ████████████
+</div>
