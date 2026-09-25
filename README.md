@@ -1,4 +1,4 @@
-<h1 align="center">Hello world</h1>
+<h1 align="center">Hello,world</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=FF1B4C&center=true&vCenter=true&width=550&lines=%3E+Studying+C%2B%2B...;%3E+Heading+towards+Cyber+Security" alt="Typing SVG" />
