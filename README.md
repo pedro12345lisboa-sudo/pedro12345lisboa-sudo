@@ -57,6 +57,16 @@ I enjoy learning through practical projects, experimenting with different techno
 <tr>
 <td width="50%">
 
+### [Blue-Sentinel Security](https://github.com/pedro12345lisboa-sudo/blue-sentinel-security)
+
+`TypeScript` `Python` `C++`
+
+A defensive cybersecurity portfolio project focused on Blue Team, security monitoring, detection engineering, secure software development and system analysis.
+
+</td>
+
+<td width="50%">
+
 ### [app.py-code-capacete](https://github.com/pedro12345lisboa-sudo/spy-code-capacete)
 
 `Python`
@@ -64,7 +74,9 @@ I enjoy learning through practical projects, experimenting with different techno
 An AI project focused on the concept of a smart helmet.
 
 </td>
+</tr>
 
+<tr>
 <td width="50%">
 
 ### [cyber-portifolho](https://github.com/pedro12345lisboa-sudo/cyber-portifolho)
@@ -74,20 +86,12 @@ An AI project focused on the concept of a smart helmet.
 A Cyber Security inspired developer portfolio.
 
 </td>
-</tr>
 
-<tr>
 <td width="50%">
 
 ### [fisica](https://github.com/pedro12345lisboa-sudo/fisica)
 
 A programming project related to physics.
-
-</td>
-
-<td width="50%">
-
-More projects coming soon.
 
 </td>
 </tr>
