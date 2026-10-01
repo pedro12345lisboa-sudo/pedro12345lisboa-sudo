@@ -24,8 +24,6 @@ My first backend experience was built with **Node.js** and **Supabase**, which h
 
 I've also worked with technologies such as **React**, **Next.js**, **NestJS**, **.NET**, **Docker**, **Firebase** and **Electron**, while using tools and technologies such as **Git**, **Linux**, **Figma**, **Tailwind CSS** and **Framer** in different projects.
 
-One of my projects is **Cyber Portifólio**, where I used JavaScript and Figma to build a Cyber Security inspired developer portfolio. I've also worked on projects involving Python, AI concepts and physics.
-
 I'm currently studying **C++** and heading towards **Cyber Security**, with a growing interest in **backend development, databases, Linux, networking, systems programming, operating systems and low-level technologies**.
 
 I enjoy learning through practical projects, experimenting with different technologies and constantly improving my programming skills.
@@ -43,10 +41,34 @@ I enjoy learning through practical projects, experimenting with different techno
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Programming Languages:</h3>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,py,cpp,html,css,nodejs,react,nextjs,nestjs,dotnet,docker,git,github,linux,mysql,firebase,electron,figma,tailwind,framer,supabase" alt="Languages and Tools">
+  <img src="https://skillicons.dev/icons?i=js,ts,py,cpp" alt="Programming Languages">
+</p>
+
+<h3 align="left">Frontend:</h3>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,electron,tailwind,framer" alt="Frontend">
+</p>
+
+<h3 align="left">Backend:</h3>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,dotnet,firebase" alt="Backend">
+</p>
+
+<h3 align="left">Databases:</h3>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,supabase,postgres,sqlite" alt="Databases">
+</p>
+
+<h3 align="left">Tools &amp; Infrastructure:</h3>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,docker,figma" alt="Tools and Infrastructure">
 </p>
 
 <br>
@@ -57,41 +79,21 @@ I enjoy learning through practical projects, experimenting with different techno
 <tr>
 <td width="50%">
 
-### [Blue-Sentinel Security](https://github.com/pedro12345lisboa-sudo/blue-sentinel-security)
+### [Pd-jammer](https://github.com/pedro12345lisboa-sudo/Pd-jammer)
 
-`TypeScript` `Python` `C++`
+`Python` `C++`
 
-A defensive cybersecurity portfolio project focused on Blue Team, security monitoring, detection engineering, secure software development and system analysis.
+A hardware-first library to document, model and validate jumper wire plans for the DOIT ESP32 DevKit V1, with shared Python and C++ front-ends, a CLI and explicit pin, power and logic-level rules.
 
 </td>
 
 <td width="50%">
 
-### [app.py-code-capacete](https://github.com/pedro12345lisboa-sudo/spy-code-capacete)
+### [ddos-pt-br](https://github.com/pedro12345lisboa-sudo/ddos-pt-br)
 
 `Python`
 
-An AI project focused on the concept of a smart helmet.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### [cyber-portifolho](https://github.com/pedro12345lisboa-sudo/cyber-portifolho)
-
-`JavaScript`
-
-A Cyber Security inspired developer portfolio.
-
-</td>
-
-<td width="50%">
-
-### [fisica](https://github.com/pedro12345lisboa-sudo/fisica)
-
-A programming project related to physics.
+An async HTTP stress testing tool for authorized resilience testing of web infrastructure, built with `asyncio` and `aiohttp`.
 
 </td>
 </tr>
