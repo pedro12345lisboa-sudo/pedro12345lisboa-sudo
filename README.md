@@ -108,7 +108,15 @@ A Blue Team and detection engineering portfolio: Next.js 14 frontend, FastAPI ba
 
 </td>
 
-<td width="50%"></td>
+<td width="50%">
+
+### [Event Horizon Lab](https://github.com/pedro12345lisboa-sudo/event-horizon-lab)
+
+`C++`
+
+A Schwarzschild black hole simulator with two synchronized views: a 3D view of space with bending light rays, an accretion disk and an infalling particle, and a 4D spacetime view with light cones, a Flamm embedding diagram and time-dilation plots. Geodesics are integrated with a 4th-order Runge-Kutta scheme in C++ and validated against the critical impact parameter, weak-field deflection and radial free-fall proper time.
+
+</td>
 </tr>
 </table>
 
