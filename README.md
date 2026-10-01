@@ -97,6 +97,19 @@ An async HTTP stress testing tool for authorized resilience testing of web infra
 
 </td>
 </tr>
+<tr>
+<td width="50%">
+
+### [Blue-Sentinel Security](https://github.com/pedro12345lisboa-sudo/blue-sentinel-security)
+
+`TypeScript` `Python` `C++`
+
+A Blue Team and detection engineering portfolio: Next.js 14 frontend, FastAPI backend with a Sigma-like detection engine, PostgreSQL and Redis data layer, plus a C++20 systems project. Dockerized with isolated networks and rate limiting.
+
+</td>
+
+<td width="50%"></td>
+</tr>
 </table>
 
 <br>
